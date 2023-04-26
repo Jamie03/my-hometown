@@ -4,13 +4,17 @@
         justify-content: space-between;
     }
 
+    html {
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
     aside {
         width: 30vw;
         padding: 0.5rem;
     }
 
     section {
-        max-width: 55vw;
         padding: 0.5rem;
     }
 }
